@@ -1,4 +1,5 @@
 fun main(){
     val nom="Joel"
-    println("Benvingut $nom")
+    val cicle="DAM2"
+    println("Benvingut $nom del $cicle")
 }
